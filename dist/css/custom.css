@@ -1,0 +1,28 @@
+.bg-dark1{
+	background-color:#343a40;
+}
+.navbar-dark{
+	background-color:#444a50;
+}
+body{
+	font-family: Roboto;
+	font-weight:200;
+}
+.main-header{
+	border-bottom:none;
+}
+.main-footer{
+	background:#000;
+	color:fff;
+	border-top:none;
+}
+.card{
+	background-color:#414c56;
+	color:#fff;
+}
+.breadcrumb-item{
+	color:#fff;
+}
+.text-muted{
+	color:#bfbfbf !important;
+}
